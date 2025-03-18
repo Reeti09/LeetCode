@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Reeti09/LeetCode/tree/master/0392-is-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Reeti09/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Reeti09/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Reeti09/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Reeti09/LeetCode/tree/master/0392-is-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Reeti09/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Reeti09/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Reeti09/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Reeti09/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Reeti09/LeetCode/tree/master/0392-is-subsequence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Reeti09/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Reeti09/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Reeti09/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
