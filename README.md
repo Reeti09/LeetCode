@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Reeti09/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Reeti09/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Reeti09/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Reeti09/LeetCode/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Reeti09/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Reeti09/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Reeti09/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Reeti09/LeetCode/tree/master/0054-spiral-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Reeti09/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Reeti09/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
@@ -168,4 +170,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Reeti09/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Reeti09/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
