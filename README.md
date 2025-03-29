@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2690-house-robber-iv](https://github.com/Reeti09/LeetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Reeti09/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Reeti09/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Reeti09/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Reeti09/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/Reeti09/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Reeti09/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Reeti09/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Reeti09/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Reeti09/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Reeti09/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Reeti09/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Reeti09/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Reeti09/LeetCode/tree/master/0011-container-with-most-water) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Reeti09/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Queue
 |  |
 | ------- |
@@ -152,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Reeti09/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Reeti09/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Reeti09/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Reeti09/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/Reeti09/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Reeti09/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Union Find
@@ -197,4 +202,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Reeti09/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/Reeti09/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/Reeti09/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
