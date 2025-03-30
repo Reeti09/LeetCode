@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Reeti09/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0125-valid-palindrome](https://github.com/Reeti09/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Reeti09/LeetCode/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/Reeti09/LeetCode/tree/master/0768-partition-labels) |
 | [1170-shortest-common-supersequence](https://github.com/Reeti09/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Reeti09/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Reeti09/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Reeti09/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Reeti09/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Reeti09/LeetCode/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/Reeti09/LeetCode/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Reeti09/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Reeti09/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Reeti09/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Reeti09/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Reeti09/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Reeti09/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0768-partition-labels](https://github.com/Reeti09/LeetCode/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Reeti09/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Reeti09/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Reeti09/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Reeti09/LeetCode/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/Reeti09/LeetCode/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Reeti09/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Queue
 |  |
