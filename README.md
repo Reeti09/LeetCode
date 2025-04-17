@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Reeti09/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Reeti09/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Reeti09/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Reeti09/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Reeti09/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Reeti09/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0289-game-of-life](https://github.com/Reeti09/LeetCode/tree/master/0289-game-of-life) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Reeti09/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Reeti09/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Reeti09/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Reeti09/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Reeti09/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Reeti09/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Reeti09/LeetCode/tree/master/0242-valid-anagram) |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Reeti09/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Reeti09/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Reeti09/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Reeti09/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
