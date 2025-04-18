@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Reeti09/LeetCode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Reeti09/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Reeti09/LeetCode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Reeti09/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Reeti09/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Reeti09/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Reeti09/LeetCode/tree/master/0242-valid-anagram) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Reeti09/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Reeti09/LeetCode/tree/master/0071-simplify-path) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Reeti09/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
