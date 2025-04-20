@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Reeti09/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Reeti09/LeetCode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/Reeti09/LeetCode/tree/master/0155-min-stack) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Reeti09/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
@@ -338,4 +339,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Reeti09/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Reeti09/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
