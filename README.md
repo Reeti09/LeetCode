@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Reeti09/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Reeti09/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Reeti09/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/Reeti09/LeetCode/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/Reeti09/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Reeti09/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Reeti09/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Reeti09/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Reeti09/LeetCode/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/Reeti09/LeetCode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Reeti09/LeetCode/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/Reeti09/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Reeti09/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Reeti09/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Reeti09/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Reeti09/LeetCode/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/Reeti09/LeetCode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Reeti09/LeetCode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Reeti09/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Reeti09/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Reeti09/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
