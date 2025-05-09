@@ -418,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Reeti09/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Reeti09/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/Reeti09/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Reeti09/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Reeti09/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
