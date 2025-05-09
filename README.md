@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1170-shortest-common-supersequence](https://github.com/Reeti09/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Reeti09/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Reeti09/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Reeti09/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Reeti09/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Reeti09/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Reeti09/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/Reeti09/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Reeti09/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Reeti09/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Reeti09/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/Reeti09/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Reeti09/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Queue
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/Reeti09/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Reeti09/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Reeti09/LeetCode/tree/master/0155-min-stack) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Reeti09/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Reeti09/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
@@ -370,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Reeti09/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Reeti09/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Reeti09/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Combinatorics
 |  |
 | ------- |
