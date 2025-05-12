@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Reeti09/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Reeti09/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Reeti09/LeetCode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Reeti09/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Reeti09/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Reeti09/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Reeti09/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Reeti09/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Reeti09/LeetCode/tree/master/0071-simplify-path) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Reeti09/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Reeti09/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Reeti09/LeetCode/tree/master/0155-min-stack) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Reeti09/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Reeti09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Reeti09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Reeti09/LeetCode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Reeti09/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Reeti09/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Reeti09/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Reeti09/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -410,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Reeti09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Reeti09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Reeti09/LeetCode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Reeti09/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Reeti09/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Reeti09/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Reeti09/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -482,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Reeti09/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Reeti09/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Reeti09/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Reeti09/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Reeti09/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Reeti09/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Reeti09/LeetCode/tree/master/0141-linked-list-cycle) |
