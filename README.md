@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/Reeti09/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Reeti09/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Reeti09/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Reeti09/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Reeti09/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Reeti09/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Reeti09/LeetCode/tree/master/0383-ransom-note) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Reeti09/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Reeti09/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Reeti09/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Reeti09/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Reeti09/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Reeti09/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Reeti09/LeetCode/tree/master/0383-ransom-note) |
@@ -560,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/Reeti09/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Reeti09/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/Reeti09/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -590,4 +593,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Reeti09/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Reeti09/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
