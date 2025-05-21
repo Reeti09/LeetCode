@@ -1,64 +1,53 @@
-class Node {
-    Node[] links = new Node[26];
-    boolean isEnd = false;
+class TrieNode {
+    TrieNode[] children;
+    boolean isEnd;
 
-    boolean containsKey(char ch) {
-        return links[ch - 'a'] != null;
-    }
-
-    void put(char ch, Node node) {
-        links[ch - 'a'] = node;
-    }
-
-    Node get(char ch) {
-        return links[ch - 'a'];
-    }
-
-    void setEnd() {
-        isEnd = true;
-    }
-
-    boolean isEnd() {
-        return isEnd;
+    // Constructor for TrieNode
+    public TrieNode() {
+        children = new TrieNode[26]; // For 26 lowercase English letters
+        isEnd = false;
     }
 }
 
 public class Trie {
-    private Node root;
+    private TrieNode root;
 
+    // Constructor for Trie
     public Trie() {
-        root = new Node();
+        root = new TrieNode();
     }
 
+    // Insert a word into the Trie
     public void insert(String word) {
-        Node node = root;
-        for (char ch : word.toCharArray()) {
-            if (!node.containsKey(ch)) {
-                node.put(ch, new Node());
+        TrieNode node = root;
+        for (char c : word.toCharArray()) {
+            int index = c - 'a'; // Get index 0–25
+            if (node.children[index] == null) {
+                node.children[index] = new TrieNode(); // Create node if missing
             }
-            node = node.get(ch);
+            node = node.children[index]; // Move to next
         }
-        node.setEnd();
+        node.isEnd = true; // Mark the end of the word
     }
 
+    // Search if the word exists
     public boolean search(String word) {
-        Node node = root;
-        for (char ch : word.toCharArray()) {
-            if (!node.containsKey(ch)) {
-                return false;
-            }
-            node = node.get(ch);
+        TrieNode node = root;
+        for (char c : word.toCharArray()) {
+            int index = c - 'a';
+            if (node.children[index] == null) return false;
+            node = node.children[index];
         }
-        return node.isEnd();
+        return node.isEnd;
     }
 
+    // Check if any word starts with prefix
     public boolean startsWith(String prefix) {
-        Node node = root;
-        for (char ch : prefix.toCharArray()) {
-            if (!node.containsKey(ch)) {
-                return false;
-            }
-            node = node.get(ch);
+        TrieNode node = root;
+        for (char c : prefix.toCharArray()) { // <-- fixed from 'word' to 'prefix'
+            int index = c - 'a';
+            if (node.children[index] == null) return false;
+            node = node.children[index];
         }
         return true;
     }
