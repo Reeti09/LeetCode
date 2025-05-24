@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Reeti09/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Reeti09/LeetCode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Reeti09/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Reeti09/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Reeti09/LeetCode/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Reeti09/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Reeti09/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Reeti09/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Reeti09/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/Reeti09/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Reeti09/LeetCode/tree/master/0392-is-subsequence) |
@@ -648,4 +650,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/Reeti09/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Reeti09/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Reeti09/LeetCode/tree/master/0212-word-search-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Reeti09/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
