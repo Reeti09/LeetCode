@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Reeti09/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Reeti09/LeetCode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Reeti09/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Reeti09/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Reeti09/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Reeti09/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Reeti09/LeetCode/tree/master/0075-sort-colors) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Reeti09/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Reeti09/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Reeti09/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Reeti09/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Reeti09/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Reeti09/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Reeti09/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
