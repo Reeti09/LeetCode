@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Reeti09/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Reeti09/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Reeti09/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Reeti09/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Reeti09/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Reeti09/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Reeti09/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Reeti09/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Reeti09/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Reeti09/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Reeti09/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Reeti09/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Reeti09/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Reeti09/LeetCode/tree/master/0139-word-break) |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Reeti09/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Reeti09/LeetCode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Reeti09/LeetCode/tree/master/0289-game-of-life) |
 | [2048-build-array-from-permutation](https://github.com/Reeti09/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Reeti09/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -352,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Reeti09/LeetCode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Reeti09/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Reeti09/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Reeti09/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
