@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Reeti09/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Reeti09/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Reeti09/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Reeti09/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Reeti09/LeetCode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Reeti09/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Reeti09/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Reeti09/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Reeti09/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Reeti09/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Reeti09/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Reeti09/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Reeti09/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Reeti09/LeetCode/tree/master/0139-word-break) |
