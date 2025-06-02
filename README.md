@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Reeti09/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Reeti09/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Reeti09/LeetCode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/Reeti09/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Reeti09/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Reeti09/LeetCode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Reeti09/LeetCode/tree/master/0139-word-break) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Reeti09/LeetCode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Reeti09/LeetCode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Reeti09/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Reeti09/LeetCode/tree/master/0502-ipo) |
 | [0768-partition-labels](https://github.com/Reeti09/LeetCode/tree/master/0768-partition-labels) |
