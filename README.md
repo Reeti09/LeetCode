@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-push-dominoes](https://github.com/Reeti09/LeetCode/tree/master/0868-push-dominoes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Reeti09/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/Reeti09/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1250-longest-common-subsequence](https://github.com/Reeti09/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Reeti09/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Reeti09/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Reeti09/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-push-dominoes](https://github.com/Reeti09/LeetCode/tree/master/0868-push-dominoes) |
 | [1160-letter-tile-possibilities](https://github.com/Reeti09/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Reeti09/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1250-longest-common-subsequence](https://github.com/Reeti09/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Reeti09/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Reeti09/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Reeti09/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
