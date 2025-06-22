@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Reeti09/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Reeti09/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Reeti09/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Reeti09/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Reeti09/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Reeti09/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Reeti09/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Reeti09/LeetCode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Reeti09/LeetCode/tree/master/0289-game-of-life) |
 | [2048-build-array-from-permutation](https://github.com/Reeti09/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Reeti09/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Reeti09/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Reeti09/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
