@@ -1,0 +1,13 @@
+class Solution {
+    public int possibleStringCount(String word) {
+        int count = 1; // Initialize the count to 1 because the first character is always counted
+        // Loop through the string starting from the second character
+        for (int i = 1; i < word.length(); ++i) {
+            // Check if the current character is the same as the previous one
+            if (word.charAt(i) == word.charAt(i - 1)) {
+                ++count; // Increment the count if characters are the same
+            }
+        }
+        return count; // Return the total count of adjacent duplicate characters
+    }
+}
