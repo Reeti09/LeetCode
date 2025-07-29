@@ -9,8 +9,8 @@ class Solution {
                 left++;
             }
 
+
         }
-        return (minLength==Integer.MAX_VALUE)?0: minLength;
-        
+        return (minLength==Integer.MAX_VALUE)? 0 : minLength;
     }
 }
