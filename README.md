@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Reeti09/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Reeti09/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Reeti09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Reeti09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/Reeti09/LeetCode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Reeti09/LeetCode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/Reeti09/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Reeti09/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Reeti09/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Reeti09/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/Reeti09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Reeti09/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Reeti09/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Reeti09/LeetCode/tree/master/0383-ransom-note) |
@@ -570,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Reeti09/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Reeti09/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Reeti09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Reeti09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Reeti09/LeetCode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Reeti09/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Reeti09/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
