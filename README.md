@@ -841,6 +841,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Reeti09/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Reeti09/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Reeti09/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Reeti09/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/Reeti09/LeetCode/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Reeti09/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Divide and Conquer
@@ -906,6 +907,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/Reeti09/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Reeti09/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Reeti09/LeetCode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Reeti09/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Reeti09/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search Tree
 |  |
