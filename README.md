@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Reeti09/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Reeti09/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Reeti09/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Reeti09/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/Reeti09/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2479-meeting-rooms-iii](https://github.com/Reeti09/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Reeti09/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/Reeti09/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/Reeti09/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Reeti09/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/Reeti09/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Reeti09/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -880,6 +883,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Reeti09/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Reeti09/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Reeti09/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -890,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Reeti09/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/Reeti09/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
