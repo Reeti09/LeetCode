@@ -4,38 +4,39 @@ class Solution {
         for(int i=0;i<numCourses;i++){
             adj.add(new ArrayList<>());
         }
-        int[] indegree=new int[numCourses];
-        for(int i=0;i<numCourses;i++){
-            for(int[] pair: prerequisites){
-                int u=pair[0];
-                int v=pair[1];
-                adj.get(v).add(u);
-                indegree[u]++;
-            }
+        int[] inDegree=new int[numCourses];
+        for(int[] prereq: prerequisites){
+            int course=prereq[0];
+            int preCourse=prereq[1];
+            adj.get(preCourse).add(course);
+            inDegree[course]++;
+
         }
         Queue<Integer> q=new LinkedList<>();
         for(int i=0;i<numCourses;i++){
-            if(indegree[i]==0) q.add(i);
-        }
-        int index=0;
-        int[] order=new int[numCourses];
-        while(!q.isEmpty()){
-            int u=q.poll();
-            order[index++]=u;
-            for(int neighbor: adj.get(u)){
-                indegree[neighbor]--;
-                if(indegree[neighbor]==0){
-                    q.add(neighbor);
-                }
+            if(inDegree[i]==0){
+                q.add(i);
             }
         }
-        if(index==numCourses){
-            return order;
+        int[] result=new int[numCourses];
+        int count=0;
+        while(!q.isEmpty()){
+            int course=q.poll();
+            result[count++]=course;
+            for(int nextCourse: adj.get(course)){
+                inDegree[nextCourse]--;
+                if(inDegree[nextCourse]==0){
+                    q.add(nextCourse);
+                }
 
+            }
+        }
+        if(count==numCourses){
+            return result;
         }
         else{
             return new int[0];
         }
-        
+
     }
 }
