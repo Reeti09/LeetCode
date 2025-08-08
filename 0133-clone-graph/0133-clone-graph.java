@@ -20,28 +20,26 @@ class Node {
 
 class Solution {
     public Node cloneGraph(Node node) {
-        if (node == null) return null;
-
-        Map<Node, Node> visited = new HashMap<>();
-        Queue<Node> q = new LinkedList<>();
-
-        Node clone = new Node(node.val);
-        visited.put(node, clone);
+        if(node==null) return null;
+        Map<Node, Node> visited=new HashMap<>();
+        Queue<Node> q=new LinkedList<>();
+        Node clonedStart=new Node(node.val);
+        visited.put(node, clonedStart);
         q.add(node);
-
-        while (!q.isEmpty()) {
-            Node current = q.poll();
-
-            for (Node neighbor : current.neighbors) { // ✅ Corrected spelling: "neighbors"
-                if (!visited.containsKey(neighbor)) {
-                    Node neighborClone = new Node(neighbor.val); // ✅ Corrected spelling: "neighborClone"
-                    visited.put(neighbor, neighborClone);
+        while(!q.isEmpty()){
+            Node originalNode=q.poll();
+            Node clonedNode=visited.get(originalNode);
+            for(Node neighbor: originalNode.neighbors){
+                if(!visited.containsKey(neighbor)){
+                    Node clonedNeighbor=new Node(neighbor.val);
+                    visited.put(neighbor, clonedNeighbor);
                     q.add(neighbor);
                 }
-                visited.get(current).neighbors.add(visited.get(neighbor));
+                clonedNode.neighbors.add(visited.get(neighbor));
+
             }
         }
-
-        return visited.get(node);
+        return clonedStart;
+        
     }
 }
