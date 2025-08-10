@@ -1,58 +1,49 @@
 class Solution {
+    private int rows;
+    private int cols;
     public void solve(char[][] board) {
-        int n=board.length;
-        int m=board[0].length;
-        Queue<int[]> q=new LinkedList<>();
-        boolean[][] vis = new boolean[n][m];
-        for(int i=0;i<n;i++){
-            if(board[i][0]=='O' && !vis[i][0]){
-                q.add(new int[]{i, 0});
-                vis[i][0]=true;
+        if(board==null || board.length==0) return;
+        this.rows=board.length;
+        this.cols=board[0].length;
+        for(int c=0;c<cols;c++){
+            if(board[0][c]=='O'){
+                dfs(board, 0, c);
             }
-            if(board[i][m-1]=='O' && !vis[i][m-1]){
-                q.add(new int[]{i,m-1});
-                vis[i][m-1]=true;
-
-            }
-
-        }
-        for(int j=0;j<m;j++){
-            if(board[0][j]=='O' && !vis[0][j]){
-                q.add(new int[]{0, j});
-                vis[0][j]=true;
-            }
-            if(board[n-1][j]=='O' && !vis[n-1][j]){
-                q.add(new int[]{n-1, j});
-                vis[n-1][j]=true;
+            if(board[rows-1][c]=='O'){
+                dfs(board, rows-1, c);
             }
         }
-        int[] delRow={-1,0,1,0};
-        int[] delCol={0,-1,0,1};
-        while(!q.isEmpty()){
-            int[] cell=q.poll();
-            int row=cell[0];
-            int col=cell[1];
-            for(int k=0;k<4;k++){
-                int newRow=row+delRow[k];
-                int newCol=col+delCol[k];
-                if (isValid(newRow, newCol, n, m) &&
-                    board[newRow][newCol] == 'O' && !vis[newRow][newCol]) {
-                    
-                    vis[newRow][newCol] = true;
-                    q.add(new int[]{newRow, newCol});
+        for(int r=0;r<rows;r++){
+            if(board[r][0]=='O'){
+                dfs(board, r, 0);
+
+            }
+            if(board[r][cols-1]=='O'){
+                dfs(board, r, cols-1);
+            }
+        }
+        for(int r=0;r<rows;r++){
+            for(int c=0;c<cols;c++){
+                if(board[r][c]=='O'){
+                    board[r][c]='X';
+
                 }
-            }
-        }
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (board[i][j] == 'O' && !vis[i][j]) {
-                    board[i][j] = 'X';
+                else if(board[r][c]=='#'){
+                    board[r][c]='O';
                 }
             }
         }
         
+        
     }
-    private boolean isValid(int i, int j, int n, int m) {
-        return i >= 0 && i < n && j >= 0 && j < m;
+    private void dfs(char[][] board, int r, int c){
+        if(r<0 ||r>=board.length || c<0 ||c>=board[0].length || board[r][c]!='O'){
+            return;
+        }
+        board[r][c]='#';
+        dfs(board, r+1, c);
+        dfs(board, r-1, c);
+        dfs(board, r, c+1);
+        dfs(board, r, c-1);
     }
 }
