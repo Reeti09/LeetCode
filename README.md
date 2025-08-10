@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Reeti09/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Reeti09/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Reeti09/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Reeti09/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Reeti09/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Reeti09/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Reeti09/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -524,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Reeti09/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Reeti09/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Reeti09/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Reeti09/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Reeti09/LeetCode/tree/master/0190-reverse-bits) |
@@ -841,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Reeti09/LeetCode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Reeti09/LeetCode/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/Reeti09/LeetCode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Reeti09/LeetCode/tree/master/0257-binary-tree-paths) |
