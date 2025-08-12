@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/Reeti09/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Reeti09/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Reeti09/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Reeti09/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Reeti09/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Reeti09/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Reeti09/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
