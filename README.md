@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/Reeti09/LeetCode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Reeti09/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Reeti09/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0312-burst-balloons](https://github.com/Reeti09/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Reeti09/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Reeti09/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Reeti09/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Reeti09/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Reeti09/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Reeti09/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Reeti09/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Reeti09/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Reeti09/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Reeti09/LeetCode/tree/master/0392-is-subsequence) |
