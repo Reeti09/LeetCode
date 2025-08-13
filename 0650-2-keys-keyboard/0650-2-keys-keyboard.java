@@ -1,15 +1,16 @@
 class Solution {
     public int minSteps(int n) {
-        if(n==1) return 0;
-        int steps=0;
-        int i=2;
-        while(n>1){
-            while(n%i==0){
-                steps+=i;
-                n/=i;
+        int[] dp=new int[n+1];
+        Arrays.fill(dp, Integer.MAX_VALUE);
+        dp[1]=0;
+        for(int i=2;i<=n;i++){
+            for(int j=1;j<i;j++){
+                if(i%j==0){
+                    int steps=i/j;
+                    dp[i]=Math.min(dp[i], dp[j]+steps);
+                }
             }
-            i++;
         }
-        return steps;
+        return dp[n];
     }
 }
