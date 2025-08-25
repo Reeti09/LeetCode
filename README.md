@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Reeti09/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Reeti09/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/Reeti09/LeetCode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Reeti09/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Reeti09/LeetCode/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/Reeti09/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Reeti09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Reeti09/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Reeti09/LeetCode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Reeti09/LeetCode/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/Reeti09/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Reeti09/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Reeti09/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Reeti09/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -763,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/Reeti09/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Reeti09/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Reeti09/LeetCode/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/Reeti09/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Reeti09/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Reeti09/LeetCode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Reeti09/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
