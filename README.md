@@ -331,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Reeti09/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Reeti09/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/Reeti09/LeetCode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/Reeti09/LeetCode/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/Reeti09/LeetCode/tree/master/0868-push-dominoes) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Reeti09/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Reeti09/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Reeti09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Reeti09/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Reeti09/LeetCode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/Reeti09/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/Reeti09/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Reeti09/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Reeti09/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -545,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0383-ransom-note](https://github.com/Reeti09/LeetCode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Reeti09/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0778-reorganize-string](https://github.com/Reeti09/LeetCode/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Reeti09/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/Reeti09/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Reeti09/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -592,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Reeti09/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Reeti09/LeetCode/tree/master/0502-ipo) |
 | [0768-partition-labels](https://github.com/Reeti09/LeetCode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/Reeti09/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/Reeti09/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Reeti09/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Reeti09/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -643,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Reeti09/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Reeti09/LeetCode/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/Reeti09/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0778-reorganize-string](https://github.com/Reeti09/LeetCode/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Reeti09/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/Reeti09/LeetCode/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Reeti09/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -803,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Reeti09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Reeti09/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Reeti09/LeetCode/tree/master/0502-ipo) |
+| [0778-reorganize-string](https://github.com/Reeti09/LeetCode/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Reeti09/LeetCode/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Reeti09/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Reeti09/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
