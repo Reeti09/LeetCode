@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Reeti09/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Reeti09/LeetCode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Reeti09/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Reeti09/LeetCode/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Reeti09/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Reeti09/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Reeti09/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Reeti09/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Reeti09/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Reeti09/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Reeti09/LeetCode/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Reeti09/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Reeti09/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Reeti09/LeetCode/tree/master/0213-house-robber-ii) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Reeti09/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Reeti09/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Reeti09/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Reeti09/LeetCode/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/Reeti09/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Reeti09/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Reeti09/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -430,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Reeti09/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Reeti09/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Reeti09/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Reeti09/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Reeti09/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Reeti09/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Reeti09/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -910,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Reeti09/LeetCode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Reeti09/LeetCode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Reeti09/LeetCode/tree/master/0113-path-sum-ii) |
+| [0140-word-break-ii](https://github.com/Reeti09/LeetCode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Reeti09/LeetCode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Reeti09/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Reeti09/LeetCode/tree/master/0494-target-sum) |
@@ -1042,6 +1047,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Reeti09/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Reeti09/LeetCode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Reeti09/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Reeti09/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Reeti09/LeetCode/tree/master/0212-word-search-ii) |
@@ -1053,6 +1059,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/Reeti09/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Reeti09/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Reeti09/LeetCode/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/Reeti09/LeetCode/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Reeti09/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Reeti09/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
