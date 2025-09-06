@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Reeti09/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Reeti09/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Reeti09/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Reeti09/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Reeti09/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Reeti09/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Reeti09/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Reeti09/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Reeti09/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Reeti09/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Reeti09/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Reeti09/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Reeti09/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2915-count-of-interesting-subarrays](https://github.com/Reeti09/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Reeti09/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Reeti09/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Reeti09/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Reeti09/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Reeti09/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Reeti09/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Reeti09/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
