@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Reeti09/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Reeti09/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Reeti09/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Reeti09/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Reeti09/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Reeti09/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Reeti09/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Reeti09/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Reeti09/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Reeti09/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Reeti09/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/Reeti09/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Reeti09/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Reeti09/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Reeti09/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Reeti09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Reeti09/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Reeti09/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Reeti09/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Reeti09/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Reeti09/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
