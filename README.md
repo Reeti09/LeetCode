@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1813-maximum-erasure-value](https://github.com/Reeti09/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Reeti09/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1829-maximum-units-on-a-truck](https://github.com/Reeti09/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Reeti09/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Reeti09/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Reeti09/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Reeti09/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1500-count-largest-group](https://github.com/Reeti09/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Reeti09/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Reeti09/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Reeti09/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Reeti09/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Reeti09/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Reeti09/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -633,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Reeti09/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Reeti09/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1829-maximum-units-on-a-truck](https://github.com/Reeti09/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Reeti09/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Reeti09/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Reeti09/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Reeti09/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
