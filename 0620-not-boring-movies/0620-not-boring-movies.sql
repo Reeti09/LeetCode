@@ -1,4 +1,6 @@
 # Write your MySQL query statement below
-select * from Cinema
-where id%2!=0 and description!="boring"
-order by rating desc
+select c.id, c.movie, c.description, c.rating
+from Cinema c
+where mod(c.id,2)=1
+and c.description not like 'boring'
+order by c.rating desc
