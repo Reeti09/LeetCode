@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Reeti09/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Reeti09/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Reeti09/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Reeti09/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Reeti09/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Reeti09/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Reeti09/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -803,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/Reeti09/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Reeti09/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Reeti09/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Reeti09/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Reeti09/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Reeti09/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Reeti09/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -837,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/Reeti09/LeetCode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Reeti09/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Reeti09/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Reeti09/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Reeti09/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Reeti09/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Reeti09/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1023,6 +1026,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Reeti09/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Reeti09/LeetCode/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Reeti09/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Reeti09/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Reeti09/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Reeti09/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
