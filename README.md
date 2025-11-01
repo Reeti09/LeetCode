@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Reeti09/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Reeti09/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Reeti09/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Reeti09/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Reeti09/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Reeti09/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Reeti09/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Reeti09/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Reeti09/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Reeti09/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/Reeti09/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Reeti09/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Reeti09/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Reeti09/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -569,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Reeti09/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Reeti09/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Reeti09/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Reeti09/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1062,6 +1066,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-find-the-count-of-good-integers](https://github.com/Reeti09/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Reeti09/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Reeti09/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Reeti09/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
