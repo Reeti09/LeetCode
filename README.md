@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-alternating-groups-ii](https://github.com/Reeti09/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Reeti09/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Reeti09/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Reeti09/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Reeti09/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Reeti09/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Reeti09/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -548,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2915-count-of-interesting-subarrays](https://github.com/Reeti09/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Reeti09/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Reeti09/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Reeti09/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/Reeti09/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Reeti09/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Reeti09/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -1157,6 +1159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Reeti09/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Reeti09/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Reeti09/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Reeti09/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search Tree
 |  |
 | ------- |
