@@ -1259,6 +1259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1182-game-play-analysis-iv](https://github.com/Reeti09/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Reeti09/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Reeti09/LeetCode/tree/master/1258-article-views-i) |
+| [1280-students-and-examinations](https://github.com/Reeti09/LeetCode/tree/master/1280-students-and-examinations) |
 | [1292-immediate-food-delivery-ii](https://github.com/Reeti09/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Reeti09/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Reeti09/LeetCode/tree/master/1338-queries-quality-and-percentage) |
